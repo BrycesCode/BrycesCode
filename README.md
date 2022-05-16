@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**BrycesCode/BrycesCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Bryce! 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I'm a WebMaster currently working in Indiana, USA. In my free time I primarily work on backend projects but am learning as much as I can about fullstack development. 
+
+## 🛠 Skills
+C#, ASP.NET, React, NodeJS, ReactJS, TailwinCSS, MySQL, PostgreSQL, MySQL, Redis, and more to come!
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/BrycesCode)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryce-stohler/)
+
+
+## Currently Working On:
+I'm currently working on improving my skills in ASP.NET
