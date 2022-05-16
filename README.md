@@ -15,4 +15,4 @@ C#, ASP.NET, React, NodeJS, ReactJS, TailwinCSS, MySQL, PostgreSQL, MySQL, Redis
 
 
 ## Currently Working On:
-I'm currently working on an [API for a personal training company](https://github.com/bradyscode/calorie-buddy-dot-net) that is looking to expand their website to add the functionality of meal planning, calorie counting, as well as other things.
+I'm currently working on an [API for a personal training company](https://github.com/BrycesCode/calorie-buddy-dot-net) that is looking to expand their website to add the functionality of meal planning, calorie counting, as well as other things.
