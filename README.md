@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm a WebMaster currently working in Indiana, USA. In my free time I primarily work on backend projects but am learning as much as I can about fullstack development. 
+I'm a Software Engineer I currently working in Indiana, USA. In my free time I primarily work on backend projects but am learning as much as I can about fullstack development. 
 
 ## 🛠 Skills
 C#, ASP.NET, React, NodeJS, ReactJS, TailwindCSS, MySQL, PostgreSQL, MySQL, Redis, and more to come!
